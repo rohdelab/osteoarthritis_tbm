@@ -46,7 +46,9 @@ satisfactory based on visual appearance.
 - The ringing in the descent of curl and MSE is due to a step size that is too high.
 Look for the variable step_size and decrease it from 0.01 of a voxel to
 0.005 of a voxel.
+
 How to generate data matrix
+
 By this point, you should have generated mappings are stored in the results generated
 from multVOT in [results.f1 results.f2 results.f3]. These are the
 components of the transport maps.
